@@ -38,5 +38,5 @@ While we didn’t make it to the Top 20, we’re proud to have ranked among the 
 
 ## 🔗 Live Demo
 
-👉 [Visit EcoPack Insight](https://shreyakushwaha39.github.io/Eco-pack-insight/)
+👉 [Visit EcoPack Insight](https://github.com/Dev-varshney13/ecopack-insight-site/)
 
